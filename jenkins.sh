@@ -1,2 +1,3 @@
 #!/bin/sh
-echo "Hello"
+echo "Hello this is a jenkins file"
+echo $date
